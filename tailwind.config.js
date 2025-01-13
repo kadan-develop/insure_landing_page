@@ -6,6 +6,9 @@ export const theme = {
       display: "DM Serif Display, serif",
       karla: "Karla, sans-serif",
     },
+    padding: {
+      "-10px": "-10px",
+    },
   },
 };
 export const plugins = [];
